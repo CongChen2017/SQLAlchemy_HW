@@ -1,6 +1,6 @@
 # SQLAlchemy_HW
 
-Two raw data file uploaded along with following files: <br>
+Two CSV raw data files uploaded along with following files: <br>
 <hr>
 a new CSV file after data clean <br>
 <hr>
